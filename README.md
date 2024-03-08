@@ -5,3 +5,4 @@ primeiro exemplo de commit .
 erro de permissão.
 
 reparo manual 
+conflito de desatualização 
