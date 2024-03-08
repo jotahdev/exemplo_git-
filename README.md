@@ -1,4 +1,5 @@
 # exemplo_git-
-exemplo de funcionamento git
+exemplo de funcionamento cls
 
-primeiro exemplo de commit 
+primeiro exemplo de commit .
+erro de permissão.
